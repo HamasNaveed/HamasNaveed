@@ -42,7 +42,6 @@ I love building smart systems — from automating outreach to crafting MVPs and 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EF4E4E?style=flat&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white" />
 </p>
 
