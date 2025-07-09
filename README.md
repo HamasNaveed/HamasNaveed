@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Hamas Naveed</h1>
-<h4 align="center">Software Engineering Student | Full-stack Dev | Automation Builder | Game Enthusiast 🎮</h4>
+<h4 align="center">Software Engineering Student | Automation Builder | Game Enthusiast 🎮</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HamasNaveed&label=Profile%20Views&color=blue" alt="Profile Views" />
