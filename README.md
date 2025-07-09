@@ -14,9 +14,8 @@ I love building smart systems — from automating outreach to crafting MVPs and 
 
 🔧 What I’ve built:
 - Automated LinkedIn + Email lead gen with AI-personalized messages
-- AI-powered MVPs and SaaS solutions
-- Game projects in Unity
-- My e-commerce mini brand: **Nothing.co** (wood & steel decor)
+- Small Game projects in Unity,Pygame,Glut and Glew,Sfml,Assembly 
+
 
 🏆 **Code Sprint 1.0 (FAST NUCES)** – Ranked 8th among 120+ teams by solving 3/7 timed coding challenges!
 
@@ -26,7 +25,6 @@ I love building smart systems — from automating outreach to crafting MVPs and 
 
 ## 💼 What I Love to Build
 
-- 🌐 Full-stack Web Apps  
 - 🤖 Automation Workflows & Scrapers  
 - 🛠 MVPs & AI SaaS Tools  
 - 🎮 Games and Interactive Experiences  
