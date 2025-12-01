@@ -17,7 +17,6 @@ I love building smart systems — from automating outreach to crafting MVPs and 
 - Small Game projects in Unity,Pygame,Glut and Glew,Sfml,Assembly 
 
 
-🏆 **Code Sprint 1.0 (FAST NUCES)** – Ranked 8th among 120+ teams by solving 3/7 timed coding challenges!
 
 🧠 Motto: *"What you see is just perspective — I code to reshape it."*
 
