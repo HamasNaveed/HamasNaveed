@@ -1,341 +1,194 @@
-<h1 align="center">
-Hi 👋 I'm Hamas Naveed
-</h1>
+<!-- ░▒▓ HAMAS NAVEED // PROFILE.SYS ▓▒░ -->
 
-<h3 align="center">
-AI Automation Engineer • Workflow Architect • Building AI Systems That Replace Manual Work
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A0F1F,50:7B2FF7,100:00F0FF&text=HAMAS%20NAVEED&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=AI%20Automation%20Engineer%20%E2%86%92%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn&stroke=00F0FF&strokeWidth=1" />
 
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Automation+Engineer;Building+Production+AI+Systems;Voice+AI+%7C+RAG+%7C+n8n+%7C+Python;Automating+Businesses+One+Workflow+at+a+Time;Always+Building+Something+Cool+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=00F0FF&background=0A0F1F00&center=true&vCenter=true&width=860&lines=%3E+initializing+hamas.sys+...;%3E+2%2B+years+shipping+AI+automation+for+real+clients;%3E+40%2B+workflows+%7C+20%2B+voice+agents+in+production;%3E+Clients+across+US+%C2%B7+UK+%C2%B7+FR+%C2%B7+DE+%C2%B7+UAE;%3E+status%3A+open+to+AI+Engineering+roles" alt="typing banner" />
 
-</p>
+<br/>
 
-<p align="center">
+<a href="https://hamasportfolio.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-ONLINE-00F0FF?style=for-the-badge&labelColor=0A0F1F&logo=vercel&logoColor=00F0FF"/></a>
+<a href="https://www.linkedin.com/in/hamas-naveed-147587289"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-7B2FF7?style=for-the-badge&labelColor=0A0F1F&logo=linkedin&logoColor=7B2FF7"/></a>
+<a href="mailto:hamasnaveed123@gmail.com"><img src="https://img.shields.io/badge/EMAIL-HIRE_ME-FF2E97?style=for-the-badge&labelColor=0A0F1F&logo=gmail&logoColor=FF2E97"/></a>
+<img src="https://komarev.com/ghpvc/?username=HamasNaveed&label=VISITORS&color=00F0FF&style=for-the-badge&labelColor=0A0F1F"/>
 
-<a href="https://hamasportfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge"/>
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/hamas-naveed-147587289">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+<br/>
 
-<a href="mailto:hamasnaveed123@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-grey?style=for-the-badge&logo=gmail"/>
-</a>
+## `> whoami`
 
-</p>
+```ts
+const hamas = {
+  role:        "AI Automation Engineer  →  moving toward AI Engineering",
+  experience:  "2+ years full-time, shipped alongside my CS degree",
+  shipped:     { workflows: "40+", voiceAgents: "20+", ragSystems: "Enterprise-grade" },
+  clients:     ["USA", "UK", "France", "Germany", "UAE"],
+  worksWith:   "Founders & ops teams, directly (no middlemen)",
+  superpower:  "Turning messy manual processes into AI systems that run on their own",
+  lookingFor:  "AI Engineer / Applied AI / Agentic Systems roles",
+  status:      "OPEN_TO_WORK",
+};
+```
 
-<p align="center">
+> **TL;DR for recruiters:** I build **production AI systems** (voice agents, RAG assistants, LLM workflows, ERP/CRM integrations) for paying clients across 5 countries. I've been doing it full-time since my second semester, and I'm now going deeper into **AI engineering**: agents, evals, MCP, and system design.
 
-<img src="https://komarev.com/ghpvc/?username=HamasNaveed&label=Profile+Views&color=0e75b6&style=flat"/>
+<br/>
 
-</p>
+## `> system.status`
 
----
+<div align="center">
 
-# 👨‍💻 About Me
+| `40+` | `20+` | `2+ yrs` | `5` |
+|:---:|:---:|:---:|:---:|
+| **Workflows shipped** | **Voice agents live** | **Client delivery** | **Countries served** |
 
-I'm an **AI Automation Engineer** passionate about designing intelligent systems that eliminate repetitive work and streamline business operations.
+| `90%+` | `80%` | `25K+` | `87.5%` |
+|:---:|:---:|:---:|:---:|
+| **Convos automated** | **DB load reduced** | **ERP records synced** | **Workflow time saved** |
 
-Instead of automating individual tasks, I architect complete AI-powered workflows using **LLMs, Voice AI, APIs, RAG pipelines, and modern automation platforms**.
+</div>
 
-Currently building scalable AI solutions across:
+<br/>
 
-- 🤖 AI Agents
-- 📞 Voice AI
-- 🧠 RAG Systems
-- 🔄 Enterprise Automations
-- 🚀 AI MVPs
-- 📈 Lead Generation Systems
+## `> what_i_build`
 
----
+| Module | What it does | Typical outcome |
+|:--|:--|:--|
+| 🤖 **AI Agents** | LLM agents with tools, memory and guardrails that act, not just chat | Replace repetitive ops work |
+| 📞 **Voice AI** | Inbound/outbound phone agents (Retell, Vapi, ElevenLabs, Twilio) | 90%+ calls handled end to end |
+| 🧠 **RAG Systems** | Semantic search over live business data (Pinecone, Supabase) | Accurate, grounded support answers |
+| 🔄 **Workflow Automation** | Multi-system pipelines in n8n, Make, GoHighLevel | Hours of manual work → minutes |
+| 🔌 **Enterprise Integrations** | ERP/CRM sync, APIs, webhooks (Odoo, Bubble, GHL) | Clean data across tools |
+| 📈 **Lead-Gen Engines** | Scrape → enrich → qualify → personalise → outreach | 60% lead conversion |
 
-# 📊 By The Numbers
+<br/>
+
+## `> featured_missions`
 
 <table>
 <tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🚀 6+
+### 🧠 Enterprise RAG Support Agent
+`GPT-4.1` `Pinecone` `Supabase` `Odoo` `n8n`
 
-Production AI Systems
-
-</td>
-
-<td align="center">
-
-### 📞 90%
-
-Voice AI Automation
+Customer-support agent grounded in a live ERP catalogue.
+- **25,000+** ERP records synchronised
+- Semantic product search
+- **80%** fewer database queries
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center">
+### 📞 AI Voice Agent Platform
+`Retell AI` `Vapi` `ElevenLabs` `Twilio`
 
-### ⚡ 80%
-
-DB Load Reduced
+Voice agents for tenant support, vendor dispatch and booking.
+- **90%+** conversations fully automated
+- Appointment booking and dispatch
+- Deployed for international clients
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td align="center">
+### 🎯 AI Outreach Platform
+`Firecrawl` `Apify` `OpenAI` `Instantly`
 
-### 🎯 60%
-
-Lead Conversion
-
-</td>
-
-<td align="center">
-
-### 📦 25K+
-
-Records Synced
+Autonomous lead-gen pipeline from scraping to reply.
+- AI lead qualification
+- Personalised email + WhatsApp outreach
+- **60%** lead conversion
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center">
+### 🚘 eBay → Bubble Sync Pipeline
+`n8n` `APIs` `AI Data Enrichment`
 
-### ⏱️ 87.5%
-
-Workflow Time Saved
+Automated catalogue sync with AI compatibility matching.
+- **5,000+** products synced
+- Automatic updates
+- **<0.1%** listing error rate
 
 </td>
-
 </tr>
-
 </table>
 
----
+<br/>
 
-# ⚡ Currently Working On
+## `> tech.stack`
 
-- 🧠 Enterprise RAG Architectures
-- 🤖 AI Voice Agents
-- 🔄 End-to-End Workflow Automation
-- 📅 AI Appointment Booking
-- 💬 AI Customer Support Systems
-- 🏢 Enterprise ERP Integrations
-- 🚀 AI SaaS MVPs
+**AI / LLM**
 
----
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0F1F?style=for-the-badge&logo=openai&logoColor=00F0FF)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A0F1F?style=for-the-badge&logo=pinecone&logoColor=7B2FF7)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-0A0F1F?style=for-the-badge&logoColor=white&color=0A0F1F&labelColor=0A0F1F)
+![Retell](https://img.shields.io/badge/Retell_AI-0A0F1F?style=for-the-badge&logoColor=white)
+![Vapi](https://img.shields.io/badge/Vapi-0A0F1F?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0A0F1F?style=for-the-badge&logoColor=FF2E97)
 
-# 🛠 Tech Stack
+**Automation**
 
-## Languages
+![n8n](https://img.shields.io/badge/n8n-0A0F1F?style=for-the-badge&logo=n8n&logoColor=FF2E97)
+![Make](https://img.shields.io/badge/Make-0A0F1F?style=for-the-badge&logo=make&logoColor=7B2FF7)
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-0A0F1F?style=for-the-badge&logoColor=00F0FF)
+![Twilio](https://img.shields.io/badge/Twilio-0A0F1F?style=for-the-badge&logo=twilio&logoColor=FF2E97)
 
-<p>
+**Languages & Backend**
 
-<img src="https://skillicons.dev/icons?i=python,javascript,cpp,cs,mysql"/>
+![Python](https://img.shields.io/badge/Python-0A0F1F?style=for-the-badge&logo=python&logoColor=00F0FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0F1F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-0A0F1F?style=for-the-badge&logo=cplusplus&logoColor=7B2FF7)
+![C#](https://img.shields.io/badge/C%23-0A0F1F?style=for-the-badge&logo=csharp&logoColor=FF2E97)
+![MySQL](https://img.shields.io/badge/MySQL-0A0F1F?style=for-the-badge&logo=mysql&logoColor=00F0FF)
+![Supabase](https://img.shields.io/badge/Supabase-0A0F1F?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![React](https://img.shields.io/badge/React-0A0F1F?style=for-the-badge&logo=react&logoColor=00F0FF)
 
-</p>
+<br/>
 
----
+## `> roadmap.exe`
 
-## AI & LLMs
-
-<p>
-
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge"/>
-
-</p>
-
----
-
-## Automation
-
-<p>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Make.com-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Zapier-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Retell_AI-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vapi-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ElevenLabs-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Twilio-red?style=for-the-badge&logo=twilio"/>
-
-</p>
-
----
-
-## Backend & Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,docker,postgres,supabase,aws,vercel,git,github"/>
-
-</p>
-
----
-
-## APIs & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Firecrawl-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Apify-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium"/>
-
-<img src="https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Webflow-black?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🤖 Enterprise RAG Customer Support Agent
-
-> GPT-4.1 • Pinecone • Supabase • Odoo • n8n
-
-- 25,000+ synchronized ERP records
-- Semantic product search
-- AI-powered customer support
-- 80% reduction in database queries
-
----
-
-## 📞 AI Voice Agent Platform
-
-> Retell AI • ElevenLabs • Twilio
-
-- Automated tenant support
-- Vendor dispatch
-- Appointment booking
-- 90%+ automated conversations
-
----
-
-## 🎯 AI Outreach Platform
-
-> Firecrawl • Apify • OpenAI • Instantly
-
-- AI Lead Qualification
-- Personalized Outreach
-- WhatsApp + Email Automation
-- 60% lead conversion
-
----
-
-## 🚘 eBay → Bubble Sync Pipeline
-
-> n8n • APIs • AI Data Enrichment
-
-- 5000+ Products
-- AI Compatibility Matching
-- Automatic Product Sync
-- <0.1% Listing Error Rate
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamasNaveed&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamasNaveed&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamasNaveed&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamasNaveed&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HamasNaveed&theme=tokyonight&margin-w=12&margin-h=12&row=2&column=4"/>
-
-</p>
-
----
-
-# 💡 Fun Facts
-
-```python
-class Hamas:
-
-    role = "AI Automation Engineer"
-
-    passion = [
-        "Automation",
-        "Voice AI",
-        "LLMs",
-        "RAG",
-        "Game Development"
-    ]
-
-    currently_learning = [
-        "AI Engineering",
-        "Agentic AI",
-        "MCP",
-        "Advanced System Design"
-    ]
-
-    life_motto = "What you see is just perspective."
+```diff
++ DONE     Production voice agents, RAG systems and workflow automation for global clients
++ DONE     Direct client delivery: scoping, building, shipping, supporting
+! ACTIVE   Agentic AI, MCP servers, advanced system design
+! ACTIVE   Building my own AI products (Heph: management command centre, React + Supabase)
+- NEXT     AI Engineering role: evals, agent reliability, LLM systems at scale
 ```
 
----
+<br/>
 
-# 🌍 Let's Connect
+## `> telemetry`
 
-<p align="center">
+<div align="center">
 
-<a href="https://hamasportfolio.vercel.app">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/hamas-naveed-147587289">LinkedIn</a> •
-<a href="mailto:hamasnaveed123@gmail.com">Email</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamasNaveed&show_icons=true&hide_border=true&bg_color=0A0F1F&title_color=00F0FF&icon_color=7B2FF7&text_color=C9D1D9&ring_color=FF2E97" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamasNaveed&layout=compact&hide_border=true&bg_color=0A0F1F&title_color=00F0FF&text_color=C9D1D9" />
 
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HamasNaveed&bg_color=0A0F1F&color=00F0FF&line=7B2FF7&point=FF2E97&area=true&area_color=7B2FF7&hide_border=true" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamasNaveed&theme=tokyonight&hide_border=true&background=0A0F1F&ring=00F0FF&fire=FF2E97&currStreakLabel=00F0FF" />
 
-<h3 align="center">
+</div>
 
-⭐ Thanks for visiting! If you like my work, feel free to connect or check out my projects.
+<br/>
 
-</h3>
+## `> open_channel`
+
+<div align="center">
+
+**Hiring for AI engineering, agents, voice AI or automation? Let's talk.**
+
+<a href="mailto:hamasnaveed123@gmail.com"><img src="https://img.shields.io/badge/hamasnaveed123@gmail.com-0A0F1F?style=for-the-badge&logo=gmail&logoColor=FF2E97&color=0A0F1F"/></a>
+<a href="https://www.linkedin.com/in/hamas-naveed-147587289"><img src="https://img.shields.io/badge/LinkedIn-Hamas_Naveed-0A0F1F?style=for-the-badge&logo=linkedin&logoColor=7B2FF7"/></a>
+<a href="https://hamasportfolio.vercel.app"><img src="https://img.shields.io/badge/hamasportfolio.vercel.app-0A0F1F?style=for-the-badge&logo=vercel&logoColor=00F0FF"/></a>
+
+<i>"What you see is just perspective."</i>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F0FF,50:7B2FF7,100:0A0F1F&section=footer" />
