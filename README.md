@@ -177,6 +177,19 @@ Automated catalogue sync with AI compatibility matching.
 
 <br/>
 
+## `> contribution.snake`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HamasNaveed/HamasNaveed/output/snake.svg" />
+  <img alt="contribution snake eating my commits" src="https://raw.githubusercontent.com/HamasNaveed/HamasNaveed/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br/>
+
 ## `> open_channel`
 
 <div align="center">
